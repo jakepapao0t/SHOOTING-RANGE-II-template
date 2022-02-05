@@ -4,7 +4,7 @@ var gun,bluebubble,redbubble, bullet, backBoard;
 var gunImg,bubbleImg, bulletImg, blastImg, backBoardImg;
 
 var redBubbleGroup, redBubbleGroup, bulletGroup;
-
+//i did this idk
 
 var life =3;
 var score=0;
